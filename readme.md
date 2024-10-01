@@ -99,7 +99,7 @@ npm run dev
 
 ---
 
-## ✋Considerações 
+## ✋Considerações Finais
 
 Espero que goste deste projeto, e afirmo que ele receberá novas atualizações futuras conforme for evoluindo o modelo de clean architecture que foi utilizado. Fique a vontade para não só clonar este projeto, mas tambem os outros que se encontram aqui no meu repositório, e espero que eles possam contribuir de uma forma significativa para o seu desenvolvimento. 
 
