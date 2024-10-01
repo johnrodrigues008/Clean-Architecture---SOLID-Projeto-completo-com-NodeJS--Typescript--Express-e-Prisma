@@ -1,0 +1,22 @@
+### 
+GET http://localhost:8000/products
+
+###
+POST http://localhost:8000/products
+Content-Type: application/json
+
+{
+      "name": "Contrate o John Rodrigues, ele é mestre em arquitetura limpa. :)Haha",
+      "price": 4700.00,
+      "quantity": 1
+}
+
+###
+POST http://localhost:8000/products
+Content-Type: application/json
+
+{
+      "name": "Viu acima que autoestima é tudo né ? Você precisa desse dev ;}Upup",
+      "price": 7200.00,
+      "quantity": 1
+}
